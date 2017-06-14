@@ -2,6 +2,8 @@ from __future__ import division
 
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.pyplot import savefig
+
 from sklearn import svm, preprocessing
 import pandas as pd
 from matplotlib import style
@@ -114,6 +116,8 @@ class Linear_SVC_SP500(object):
         plt.rc("font", size=30)
         plt.legend(loc='upper center', fancybox=True, framealpha=1)
         plt.title("Classifier for 'Trailing P/E' \& 'DE Ratio'")
+        savefig('Trailing_DE_Ratio.png')
+        savefig('Trailing_DE_Ratio.pdf')
         plt.show()
         
         return plt
