@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 05 14:35:04 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-7a2e-c3ff-00000d98d608 
+on database directory /Users/Ahmed/Documents/DataMining_Stuff/Hadoop/Spark/PySpark/tutorials/airbnb/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@14ea991e 
+Loaded from file:/usr/local/Cellar/spark/1.0.1/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b16
+user.dir=/Users/Ahmed/Documents/DataMining_Stuff/Hadoop/Spark/PySpark/tutorials/airbnb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

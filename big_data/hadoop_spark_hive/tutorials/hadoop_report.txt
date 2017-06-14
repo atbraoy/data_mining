@@ -1,0 +1,31 @@
+Configured Capacity: 498876809216 (464.62 GB)
+Present Capacity: 327657160704 (305.15 GB)
+DFS Remaining: 327645978624 (305.14 GB)
+DFS Used: 11182080 (10.66 MB)
+DFS Used%: 0.00%
+Under replicated blocks: 4
+Blocks with corrupt replicas: 0
+Missing blocks: 0
+Missing blocks (with replication factor 1): 0
+
+-------------------------------------------------
+Live datanodes (1):
+
+Name: 127.0.0.1:50010 (localhost)
+Hostname: 172.16.101.191
+Decommission Status : Normal
+Configured Capacity: 498876809216 (464.62 GB)
+DFS Used: 11182080 (10.66 MB)
+Non DFS Used: 171219648512 (159.46 GB)
+DFS Remaining: 327645978624 (305.14 GB)
+DFS Used%: 0.00%
+DFS Remaining%: 65.68%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 1
+Last contact: Sat May 13 14:21:55 PDT 2017
+
+
