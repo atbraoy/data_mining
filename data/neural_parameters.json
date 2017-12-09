@@ -1,1 +1,0 @@
-{"parameters": [{"n_folds": 4, "learning_rate": 0.75, "n_epoch": 200, "hidden_layers": 8}]}
