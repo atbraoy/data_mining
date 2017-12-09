@@ -67,7 +67,7 @@ if __name__ == '__main__':
     _dir = get_data_dir()
     json_file = 'neural_parameters.json'
     data_dir = _dir+'/model_data'
-    _file = 'dumy_data.csv'
+    _file = 'train_data.csv'
     execute_model(data_dir, _file, json_file)
         
         
